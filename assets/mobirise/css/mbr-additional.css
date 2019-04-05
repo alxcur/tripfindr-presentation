@@ -1394,28 +1394,31 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
   border-top-color: #000000;
 }
-.cid-rmIjAnidc4 {
-  background: #ffffff;
+.cid-rmIKeuULeN {
+  background-image: url("../../../assets/images/tripfindr-v2-1-1800x1012.jpg");
 }
-.cid-rmIjAnidc4 .image-block {
-  margin: auto;
-  width: 100% !important;
+.cid-rmIKeuULeN .icons-media-container {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-top: 4rem;
 }
-.cid-rmIjAnidc4 .mbr-figure {
-  margin: 0 auto;
+.cid-rmIKeuULeN .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
 }
-.cid-rmIjAnidc4 figcaption {
-  position: relative;
+.cid-rmIKeuULeN .icons-media-container .icon-block {
+  padding-bottom: 1rem;
 }
-.cid-rmIjAnidc4 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
+.cid-rmIKeuULeN .mbr-text {
+  color: #ffffff;
 }
-@media (max-width: 768px) {
-  .cid-rmIjAnidc4 .image-block {
-    width: 100% !important;
-  }
+.cid-rmIKeuULeN .card {
+  padding-bottom: 1.5rem;
 }
 .cid-qTkA127IK8 {
   background-image: url("../../../assets/images/background-1-1920x1080.jpg");
